@@ -1,8 +1,8 @@
-num = 5
-fact = 1
+num = 6
+factorial = 1
 
-for i in range(1, 6):
+for i in range(1, 7):
     fact *= i
     
-print(fact)    
+print(factorial)    
 
