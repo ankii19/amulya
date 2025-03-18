@@ -1,8 +1,8 @@
 no = 6
-fact = 1
+f = 1
 
 for i in range(1, 7):
-    fact *= i
+    f *= i
     
-print(fact)    
+print(f)    
 
