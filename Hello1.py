@@ -1,8 +1,8 @@
-num = 6
-factorial = 1
+no = 6
+fact = 1
 
 for i in range(1, 7):
     fact *= i
     
-print(factorial)    
+print(fact)    
 
