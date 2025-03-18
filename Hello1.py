@@ -1,8 +1,8 @@
 no = 6
-f = 1
+factorial = 1
 
 for i in range(1, 7):
-    f *= i
+    factorial *= i
     
-print(f)    
+print(factorial)    
 
