@@ -6,3 +6,4 @@ for i in range(1, 7):
     
 print(factorial)    
 print(factorial)    
+print(factorial)    
